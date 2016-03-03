@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qseptimiflorent00luptgoog_0005.png"; bbox 0 0 3342 4825; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 424 419 1190 604">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 424 419 1190 604">
+     <span class='ocr_line' id='line_1_1' title="bbox 424 419 1190 604; baseline 0.003 -52"><span class='ocrx_word' id='word_1_1' title='bbox 424 419 427 426; x_wconf 35' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_2' title='bbox 451 460 740 604; x_wconf 49' lang='lat' dir='ltr'>Qamhtiusse</span> <span class='ocrx_word' id='word_1_3' title='bbox 769 461 1001 571; x_wconf 58' lang='grc' dir='ltr'>ῖβαῑτίεῑίε</span> <span class='ocrx_word' id='word_1_4' title='bbox 1034 461 1190 557; x_wconf 63' lang='lat' dir='ltr'>OEextz.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 451 652 1202 729">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 451 652 1202 729">
+     <span class='ocr_line' id='line_1_2' title="bbox 451 652 1202 729; baseline 0.001 -19"><span class='ocrx_word' id='word_1_5' title='bbox 451 652 834 711; x_wconf 75' lang='lat' dir='ltr'>GENERALED1TOR-A.</span> <span class='ocrx_word' id='word_1_6' title='bbox 864 654 891 729; x_wconf 90' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_7' title='bbox 923 653 1079 725; x_wconf 87' lang='lat' dir='ltr'>MASON,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1110 653 1202 723; x_wconf 86' lang='lat' dir='ltr'>D.D.,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 467 2069 1164 2289">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 467 2069 1164 2289">
+     <span class='ocr_line' id='line_1_3' title="bbox 467 2069 1164 2171; baseline -0.01 -23"><span class='ocrx_word' id='word_1_9' title='bbox 467 2076 515 2171; x_wconf 83' lang='lat' dir='ltr'>Q.</span> <span class='ocrx_word' id='word_1_10' title='bbox 554 2073 787 2147; x_wconf 84' lang='lat' dir='ltr'>SEPTIMI</span> <span class='ocrx_word' id='word_1_11' title='bbox 837 2069 1164 2146; x_wconf 83' lang='lat' dir='ltr'>FLORENTIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 619 2212 1016 2289; baseline -0.01 -1"><span class='ocrx_word' id='word_1_12' title='bbox 619 2212 992 2289; x_wconf 87' lang='lat' dir='ltr'>TERTULLIAN</span> <span class='ocrx_word' id='word_1_13' title='bbox 1002 2212 1016 2284; x_wconf 92' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 509 2398 1130 2511">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 509 2398 1130 2511">
+     <span class='ocr_line' id='line_1_5' title="bbox 509 2398 1130 2511; baseline -0.003 0"><span class='ocrx_word' id='word_1_14' title='bbox 509 2404 622 2511; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_15' title='bbox 700 2398 1130 2509; x_wconf 81' lang='lat' dir='ltr'>BAPTISMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1676 4825">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1676 4825">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1676 4825; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1676 4825; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
